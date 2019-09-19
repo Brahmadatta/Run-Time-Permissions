@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RunTimePermissionsExample</string>
+    <string name="location_permission">Location Permission</string>
+    <string name="contacts_permission">Add to Contacts Permission</string>
+</resources>
